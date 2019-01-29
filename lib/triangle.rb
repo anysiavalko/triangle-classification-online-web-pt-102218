@@ -1,8 +1,8 @@
 class Triangle
   def initialize(s1, s2, s3)
-    @s1 = l1 
-    @s2 = l2
-    @s3 = l3 
+    @s1 = s1 
+    @s2 = s2
+    @s3 = s3 
   end
   
   def kind 
