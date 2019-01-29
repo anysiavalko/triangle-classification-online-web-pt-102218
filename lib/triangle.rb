@@ -4,4 +4,8 @@ class Triangle
     @l2 = l2
     @l3 = l3 
   end
+  
+  def kind 
+    
+  end
 end
