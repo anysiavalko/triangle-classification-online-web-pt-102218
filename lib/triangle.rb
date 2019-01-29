@@ -6,6 +6,8 @@ class Triangle
   end
   
   def kind 
+    if (@l1 <= 0) || (@l2 <= 0) || (@13 <= 0)
+      raise TriangleError
     
   end
   
